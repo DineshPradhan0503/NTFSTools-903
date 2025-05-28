@@ -7,7 +7,10 @@ public class App {
     public static void main(String[] args) {
         App app=new App();
         System.out.println("sum result is: " + app.sum(10, 20));
+
         System.out.println("sum amount44 is: " + app.sum(10, 20));
+
+        System.out.println("sum amount 55: " + app.sum(10, 20));
 
     }
 }
